@@ -1,5 +1,9 @@
 # Contributing
 
+## Neue Zeile
+
+Bitte sende eine Email an: lieblings_kollegefirma.com
+
 Your contributions are always welcome!
 
 ## Guideline
